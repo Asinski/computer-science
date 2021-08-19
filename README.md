@@ -139,33 +139,34 @@
 
 
 + Дополнительно:
-    * [Логика : учебник / Г. И. Малыхина. - Минск : Выш. шк., 2013. - 334 с. : ил.](https://belkniga.by/catalog/nauchnaya_i_tekhnicheskaya_literatura/istoricheskaya_literatura/logika9789850614483/)
-    * [Справочник по элементарной математике / М. Я. Выгодский. - М., 1971. - 416 с. : ил.](https://www.ozon.ru/product/2019-spravochnik-po-elementarnoy-matematike-160222148/?stat=YW5fMQ%3D%3D)
-    * [Справочник по высшей математике / М. Я. Выгодский. - М., 1977. - 872 с. : ил.](https://www.ozon.ru/product/spravochnik-po-vysshey-matematike-6260674/?stat=YW5fMQ%3D%3D)   
-    * [Теория вероятностей и математическая статистика : учебно-метод. пособие / А. В. Аксенчик. - Минск : БГУИР, 2011. - 184 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/630)
-      | [Теория вероятностей и математическая статистика : сборник задач по типовому расчету / сост. А. В. Аксенчик [и др.]. - Минск : БГУИР, 2007. - 76 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/916)
-
-    * [Элементы блок-схем](http://videoege.ru/informatika/elementy-blok-shem)
-
-    * [Компилятор vs. интерпретатор: ключевые отличия](https://nuancesprog.ru/p/12524/)
-    * [IDE и редакторы кода для Python](https://tproger.ru/translations/python-ide/)
-    * [Магические команды в IPython](https://nuancesprog.ru/p/8099/)
-    * [Увеличиваем скорость работы Python до уровня C++ с Numba](https://tproger.ru/translations/python-mozhet-byt-bystree-c/?utm_medium=messenger&utm_source=telegram)
-    
-    * [Гид по спортивному программированию](https://tproger.ru/articles/competitive-programming-tips/?utm_medium=messenger&utm_source=telegram)
-    * [Сайты, на которых можно порешать задачи по программированию](https://tproger.ru/digest/competitive-programming-practice/?utm_medium=messenger&utm_source=telegram)
-    
-    * [Привычки неумелого разработчика](https://nuancesprog.ru/p/12265/)
-    * [Советы для начинающих программистов](https://nuancesprog.ru/p/12837/)
-    * [Путь программиста-самоучки: преимущества и подводные камни](https://nuancesprog.ru/p/12287/)
-
-    * [Как разобраться в Computer Science самостоятельно](https://tproger.ru/curriculum/computer-science-step-by-step/?utm_medium=messenger&utm_source=telegram)
-    * [Как стать Data Scientist, не потратив ни копейки](https://dev.by/news/kak-stat-data-scientist-om-ne-potrativ-ni-kopeiki)
-    * [Собеседование vs. реальная работа: какие навыки пригодятся начинающим Python-разработчикам](https://tproger.ru/articles/sobesedovanie-vs-realnaja-rabota-kakie-navyki-prigodjatsja-nachinajushhim-python-razrabotchikam/?autoload=1&utm_medium=messenger&utm_source=telegram)
-
-    * [Вопросы работодателю на собеседовании: спрашивайте, не стесняйтесь](https://tproger.ru/articles/questions-to-the-employer/)
-    * [Вопросы с собеседований, которые означают не то, что вы думаете](https://tproger.ru/articles/16-tricky-interview-questions/?utm_medium=messenger&utm_source=telegram)
-    * [Как правильно говорить на собеседовании о зарплате?](https://vc.ru/hr/74192-kak-pravilno-govorit-na-sobesedovanii-o-zarplate)
+    * 1
+        * [Логика : учебник / Г. И. Малыхина. - Минск : Выш. шк., 2013. - 334 с. : ил.](https://belkniga.by/catalog/nauchnaya_i_tekhnicheskaya_literatura/istoricheskaya_literatura/logika9789850614483/)
+        * [Справочник по элементарной математике / М. Я. Выгодский. - М., 1971. - 416 с. : ил.](https://www.ozon.ru/product/2019-spravochnik-po-elementarnoy-matematike-160222148/?stat=YW5fMQ%3D%3D)
+        * [Справочник по высшей математике / М. Я. Выгодский. - М., 1977. - 872 с. : ил.](https://www.ozon.ru/product/spravochnik-po-vysshey-matematike-6260674/?stat=YW5fMQ%3D%3D)   
+        * [Теория вероятностей и математическая статистика : учебно-метод. пособие / А. В. Аксенчик. - Минск : БГУИР, 2011. - 184 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/630)
+        | [Теория вероятностей и математическая статистика : сборник задач по типовому расчету / сост. А. В. Аксенчик [и др.]. - Минск : БГУИР, 2007. - 76 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/916)
+    * 2
+        * [Элементы блок-схем](http://videoege.ru/informatika/elementy-blok-shem)
+    * 3
+        * [Компилятор vs. интерпретатор: ключевые отличия](https://nuancesprog.ru/p/12524/)
+        * [IDE и редакторы кода для Python](https://tproger.ru/translations/python-ide/)
+        * [Магические команды в IPython](https://nuancesprog.ru/p/8099/)
+        * [Увеличиваем скорость работы Python до уровня C++ с Numba](https://tproger.ru/translations/python-mozhet-byt-bystree-c/?utm_medium=messenger&utm_source=telegram)
+    * 4
+        * [Гид по спортивному программированию](https://tproger.ru/articles/competitive-programming-tips/?utm_medium=messenger&utm_source=telegram)
+        * [Сайты, на которых можно порешать задачи по программированию](https://tproger.ru/digest/competitive-programming-practice/?utm_medium=messenger&utm_source=telegram)
+    * 5
+        * [Привычки неумелого разработчика](https://nuancesprog.ru/p/12265/)
+        * [Советы для начинающих программистов](https://nuancesprog.ru/p/12837/)
+        * [Путь программиста-самоучки: преимущества и подводные камни](https://nuancesprog.ru/p/12287/)
+    * 6
+        * [Как разобраться в Computer Science самостоятельно](https://tproger.ru/curriculum/computer-science-step-by-step/?utm_medium=messenger&utm_source=telegram)
+        * [Как стать Data Scientist, не потратив ни копейки](https://dev.by/news/kak-stat-data-scientist-om-ne-potrativ-ni-kopeiki)
+        * [Собеседование vs. реальная работа: какие навыки пригодятся начинающим Python-разработчикам](https://tproger.ru/articles/sobesedovanie-vs-realnaja-rabota-kakie-navyki-prigodjatsja-nachinajushhim-python-razrabotchikam/?autoload=1&utm_medium=messenger&utm_source=telegram)
+    * 7
+        * [Вопросы работодателю на собеседовании: спрашивайте, не стесняйтесь](https://tproger.ru/articles/questions-to-the-employer/)
+        * [Вопросы с собеседований, которые означают не то, что вы думаете](https://tproger.ru/articles/16-tricky-interview-questions/?utm_medium=messenger&utm_source=telegram)
+        * [Как правильно говорить на собеседовании о зарплате?](https://vc.ru/hr/74192-kak-pravilno-govorit-na-sobesedovanii-o-zarplate)
 
 
 
