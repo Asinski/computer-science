@@ -81,7 +81,7 @@
 
 + Алгоритмы:
     * [Тренировки по алгоритмам 1.0](https://yandex.ru/yaintern/algorithm-training_1)
-    * [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training#schedule)
+    | [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training#schedule)
 
     * Сложность алгоритмов:
         * [Асимптотическая нотация](https://javarush.ru/quests/lectures/questharvardcs50.level03.lecture02)
