@@ -78,14 +78,14 @@
         * [PEP 20 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
             | [PEP 20 - дзен Python](https://pythonchik.ru/osnovy/dzen-python-pep20)
         * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
-        ? [80 практических вопросов по Python для собеседования](https://nuancesprog.ru/p/11460/) 
+        * [80 практических вопросов по Python для собеседования](https://nuancesprog.ru/p/11460/) 
 
     * R:
         * [Основы программирования на R | Bioinformatics Institute](https://stepik.org/course/497/syllabus)
 
 
 
-+ Алгоритмы:
++ Алгоритмы и структуры данных:
     * [Тренировки по алгоритмам 1.0](https://yandex.ru/yaintern/algorithm-training_1)
     | [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training#schedule)
     * [Алгоритмы и структуры данных на Python | Тимофей Хирьянов, МФТИ](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&ab_channel=%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2)
@@ -95,11 +95,7 @@
           | [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
         * [Сложность основных алгоритмов сортировки и работы с данными](https://www.bigocheatsheet.com/)
 
-
-
-+ Структуры данных:
     
-
 
 + Операционные системы:
     * Linux:
@@ -123,8 +119,8 @@
               | [Функции для работы с датами и временем](https://metanit.com/sql/mysql/6.3.php)
         * [Руководство по PostgreSQL](https://metanit.com/sql/postgresql/)
 	      | [Типы данных в PostgreSQL](https://metanit.com/sql/postgresql/2.3.php)
-	? [27 распространённых вопросов по SQL с собеседований](https://tproger.ru/articles/sql-interview-questions/)
-	? [5 заданий по SQL с собеседований](https://tproger.ru/articles/5-zadanij-po-sql-s-realnyh-sobesedovanij/?utm_medium=messenger&utm_source=telegram)
+	* [27 распространённых вопросов по SQL с собеседований](https://tproger.ru/articles/sql-interview-questions/)
+	* [5 заданий по SQL с собеседований](https://tproger.ru/articles/5-zadanij-po-sql-s-realnyh-sobesedovanij/?utm_medium=messenger&utm_source=telegram)
 
 
 
@@ -132,9 +128,9 @@
     * [Основы дискретной математики | Computer Science Center](https://stepik.org/course/1127/syllabus)
     * [Дискретная математика: подсчеты, графы, случайные блуждания | Высшая школа экономики](https://www.coursera.org/learn/discrete-math)
     * [Математика и Python для анализа данных | Московский физико-технический институт, Яндекс & E-Learning Development Fund](https://www.coursera.org/learn/mathematics-and-python)
-    * [Основы статистики | Bioinformatics Institute](https://stepik.org/course/76/syllabus)
-    * [Основы статистики, Часть 2 | Bioinformatics Institute](https://stepik.org/course/524/syllabus)
-    * [Основы статистикиб Часть 3 | Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
+    * [Основы статистики | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/76/syllabus)
+    * [Основы статистики, Часть 2 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/524/syllabus)
+    * [Основы статистики, Часть 3 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
 
 
 
