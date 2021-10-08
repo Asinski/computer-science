@@ -66,28 +66,33 @@
                 | [Туториал по DataFrame, часть 1](https://www.coursera.org/learn/mathematics-and-python/lecture/rcjAW/pandas-data-frame)
                 | [Туториал по DataFrame, часть 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
                 | [Comparison with SQL](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
+                | [pandas для работы с данными](https://www.youtube.com/playlist?list=PLBRXq5LaddfxQFjzuq5QC05q1ZheGMQo1)
             - [Документация по Matplotlib](https://matplotlib.org/stable/tutorials/index.html)
                 | [Туториал по Matplotlib](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xQx-X5a6eSEOYULNSnHN_p)
-           - [Документация по NumPy](https://numpy.org/doc/1.21/)
+            - [Документация по Seaborn](https://seaborn.pydata.org/)
+                | [Туториал по Seaborn](https://pyprog.pro/sns/sns_guide.html)
+            - [Документация по NumPy](https://numpy.org/doc/1.21/)
                 | [Туториал по NumPy](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zmegfAUfFMiACPKfdW4ifD)
         * [PEP 8 - style guide for Python code](https://www.python.org/dev/peps/pep-0008/)
             | [PEP 8 - руководство по написанию кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
         * [PEP 20 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
             | [PEP 20 - дзен Python](https://pythonchik.ru/osnovy/dzen-python-pep20)
-
+        * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
         ? [80 практических вопросов по Python для собеседования](https://nuancesprog.ru/p/11460/) 
+
+    * R:
+        * [Основы программирования на R | Bioinformatics Institute](https://stepik.org/course/497/syllabus)
 
 
 
 + Алгоритмы:
     * [Тренировки по алгоритмам 1.0](https://yandex.ru/yaintern/algorithm-training_1)
     | [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training#schedule)
-
+    * [Алгоритмы и структуры данных на Python | Тимофей Хирьянов, МФТИ](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&ab_channel=%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2)
     * Сложность алгоритмов:
         * [Асимптотическая нотация](https://javarush.ru/quests/lectures/questharvardcs50.level03.lecture02)
           | [Оценка сложности алгоритмов](https://tproger.ru/articles/computational-complexity-explained/)
           | [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
-
         * [Сложность основных алгоритмов сортировки и работы с данными](https://www.bigocheatsheet.com/)
 
 
@@ -118,7 +123,6 @@
               | [Функции для работы с датами и временем](https://metanit.com/sql/mysql/6.3.php)
         * [Руководство по PostgreSQL](https://metanit.com/sql/postgresql/)
 	      | [Типы данных в PostgreSQL](https://metanit.com/sql/postgresql/2.3.php)
-
 	? [27 распространённых вопросов по SQL с собеседований](https://tproger.ru/articles/sql-interview-questions/)
 	? [5 заданий по SQL с собеседований](https://tproger.ru/articles/5-zadanij-po-sql-s-realnyh-sobesedovanij/?utm_medium=messenger&utm_source=telegram)
 
@@ -128,6 +132,9 @@
     * [Основы дискретной математики | Computer Science Center](https://stepik.org/course/1127/syllabus)
     * [Дискретная математика: подсчеты, графы, случайные блуждания | Высшая школа экономики](https://www.coursera.org/learn/discrete-math)
     * [Математика и Python для анализа данных | Московский физико-технический институт, Яндекс & E-Learning Development Fund](https://www.coursera.org/learn/mathematics-and-python)
+    * [Основы статистики | Bioinformatics Institute](https://stepik.org/course/76/syllabus)
+    * [Основы статистики, Часть 2 | Bioinformatics Institute](https://stepik.org/course/524/syllabus)
+    * [Основы статистикиб Часть 3 | Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
 
 
 
@@ -167,13 +174,13 @@
         * [Вопросы работодателю на собеседовании: спрашивайте, не стесняйтесь](https://tproger.ru/articles/questions-to-the-employer/)
         * [Вопросы с собеседований, которые означают не то, что вы думаете](https://tproger.ru/articles/16-tricky-interview-questions/?utm_medium=messenger&utm_source=telegram)
         * [Как правильно говорить на собеседовании о зарплате?](https://vc.ru/hr/74192-kak-pravilno-govorit-na-sobesedovanii-o-zarplate)
+        * [Стрессовое собеседование в IT-компании: к чему готовиться?](https://tproger.ru/articles/stressovoe-sobesedovanie-8-fishek-rekrutjorov/)
 
 
 
 + Интересное:
     * [Почему список в кортеже ведет себя странно в Python?](https://habr.com/ru/company/domclick/blog/506138/)
     * [Когда и зачем использовать оператор := в Python](https://nuancesprog.ru/p/10634/)
-
 
 
 
