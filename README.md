@@ -16,6 +16,7 @@
             - [*Множества (set и frozenset)](https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html)
             - [*Словари (dict)](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html)
             - [Встроенные функции Python](https://tproger.ru/translations/python-built-ins-worth-learning/)
+            - [Всё о сортировке в Python: исчерпывающий гайд](https://tproger.ru/translations/python-sorting/)
             - [Работа с файлами](https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html)
         * [Объектно-ориентированное программирование на Python](https://stepik.org/course/72969/syllabus)
             - [Руководство по магическим методам](https://habr.com/ru/post/186608/)
@@ -93,7 +94,10 @@
         * [Асимптотическая нотация](https://javarush.ru/quests/lectures/questharvardcs50.level03.lecture02)
           | [Оценка сложности алгоритмов](https://tproger.ru/articles/computational-complexity-explained/)
           | [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
+    * Сортировка:
         * [Сложность основных алгоритмов сортировки и работы с данными](https://www.bigocheatsheet.com/)
+        * [Объяснение алгоритмов сортировки с примерами на Python](https://tproger.ru/translations/sorting-algorithms-in-python/)
+        * [Визуализации алгоритмов сортировки](https://tproger.ru/digest/sorting-algorithms-visualized/)
 
     
 
@@ -162,6 +166,7 @@
         * [Привычки неумелого разработчика](https://nuancesprog.ru/p/12265/)
         * [Советы для начинающих программистов](https://nuancesprog.ru/p/12837/)
         * [Путь программиста-самоучки: преимущества и подводные камни](https://nuancesprog.ru/p/12287/)
+        * [Практики для написания читаемого кода: что нужно знать любому программисту перед устройством на работу и не только](https://tproger.ru/articles/how-to-write-readable-code/)
     * 6
         * [Как разобраться в Computer Science самостоятельно](https://tproger.ru/curriculum/computer-science-step-by-step/?utm_medium=messenger&utm_source=telegram)
         * [Как стать Data Scientist, не потратив ни копейки](https://dev.by/news/kak-stat-data-scientist-om-ne-potrativ-ni-kopeiki)
