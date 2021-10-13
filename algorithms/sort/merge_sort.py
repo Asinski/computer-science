@@ -4,7 +4,7 @@ def merge_two_list(left, right):
     result_list = []
     i = j = 0
     while i < len(left) and j < len(right):
-        if left[i] < right[j]:
+        if left[i] <= right[j]:  # <= для устойчивости сортировки
             result_list.append(left[i])
             i += 1
         else:
@@ -15,12 +15,12 @@ def merge_two_list(left, right):
     return result_list
 
 
-def merge_sort(n):
-    if len(n) == 1:
-        return n
-    middle = len(n) // 2
-    left = merge_sort(n[:middle])
-    right = merge_sort(n[middle:])
+def merge_sort(a):
+    if len(a) == 1:
+        return a
+    middle = len(a) // 2
+    left = merge_sort(a[:middle])
+    right = merge_sort(a[middle:])
 
     return merge_two_list(left, right)
 
