@@ -96,6 +96,7 @@
           | [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
     * Сортировка:
         * [Сложность основных алгоритмов сортировки и работы с данными](https://www.bigocheatsheet.com/)
+        * [Классификация сортировок](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8)
         * [Объяснение алгоритмов сортировки с примерами на Python](https://tproger.ru/translations/sorting-algorithms-in-python/)
         * [Визуализации алгоритмов сортировки](https://tproger.ru/digest/sorting-algorithms-visualized/)
 
