@@ -137,6 +137,11 @@
     * [Основы статистики, Часть 2 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/524/syllabus)
     * [Основы статистики, Часть 3 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
 
+    * [Essence of calculus | 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+    | [Сущность матанализа | 3Blue1Brown](https://www.youtube.com/watch?v=RFOdPAteooA&list=PLZjXXN70PH5ilxFCrbVJyNofV0_yC2IgH&ab_channel=3Blue1BrowntranslatedbySciberia)
+    * [Essence of linear algebra | 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    | [Сущность линейной алгебры | 3Blue1Brown](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2&ab_channel=3Blue1Brown%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
+
 
 
 + Системы контроля версий:
