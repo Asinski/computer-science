@@ -1,6 +1,5 @@
 from math import sqrt
 
-
 a, b, c = list(map(int, input().split()))
 if a == 0:
     if b != 0:

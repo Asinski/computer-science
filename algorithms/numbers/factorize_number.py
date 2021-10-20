@@ -1,7 +1,4 @@
-
-
 def factorize_number(n):
-
     if n == 0:
         return None
 
@@ -15,7 +12,7 @@ def factorize_number(n):
             divisor += 1
 
     return multipliers
-    
+
 
 n = int(input())
 print(*factorize_number(n))

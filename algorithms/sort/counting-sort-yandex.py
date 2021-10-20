@@ -1,5 +1,3 @@
-
-
 def count_sort(seq):
     minval = min(seq)
     maxval = max(seq)

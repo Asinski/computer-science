@@ -1,5 +1,3 @@
-
-
 def generate_numbers(n, m, prefix=None):
     prefix = prefix or []
     if m == 0:

@@ -1,7 +1,4 @@
-
-
 def bubble_sort(a):
-
     for step in range(len(a) - 1):
         for i in range(len(a) - 1 - step):
             if a[i] > a[i + 1]:

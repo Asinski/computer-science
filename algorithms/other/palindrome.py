@@ -3,5 +3,4 @@ def palindrome(s):
 
 
 s = input()
-
 print(palindrome(s))

@@ -1,5 +1,3 @@
-
-
 def hanoi(n, i, k):
     if n == 1:
         print('Диск 1 со штыря {0} на штырь {1}'.format(i, k))

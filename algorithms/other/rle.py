@@ -1,5 +1,4 @@
 def rle(s):
-
     def pack(s, cnt):
         if cnt > 1:
             return s + str(cnt)

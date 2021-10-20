@@ -1,5 +1,3 @@
-
-
 def merge_two_list(left, right):
     result_list = []
     i = j = 0
@@ -11,7 +9,7 @@ def merge_two_list(left, right):
             result_list.append(right[j])
             j += 1
     result_list += left[i:] + right[j:]
-    
+
     return result_list
 
 

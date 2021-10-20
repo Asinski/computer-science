@@ -5,11 +5,11 @@ def fibonacci():
         a, b = b, a + b
 
 
-def take(n, seq):
+def take(n, fib):
     result = None
     try:
         for i in range(n):
-            result = next(seq)
+            result = next(fib)
     except StopIteration:
         pass
     return result

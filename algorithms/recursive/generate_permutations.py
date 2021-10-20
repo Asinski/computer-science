@@ -1,7 +1,7 @@
-
-
 def generate_permutations(n: int, m: int = -1, prefix=None):
-    """ Генерация всех перестановок n чисел в m позициях """
+    """
+    Генерация всех перестановок n чисел в m позициях
+    """
     m = m if m != -1 else n
     prefix = prefix or []
     if m == 0:

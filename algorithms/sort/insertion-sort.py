@@ -1,7 +1,4 @@
-
-
 def insertion_sort(a):
-
     for i in range(1, len(a)):
         item_to_insert = a[i]
         j = i - 1

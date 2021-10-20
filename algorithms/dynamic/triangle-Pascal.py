@@ -12,6 +12,5 @@ for i in range(1, n + 1):
 for i in range(0, n + 1):
     triangle_Pascal.add_row([triangle[i][j] if triangle[i][j] != 0 else f"" for j in range(0, n + 1)])
 
-
 triangle_Pascal.align = "l"
 print(triangle_Pascal)

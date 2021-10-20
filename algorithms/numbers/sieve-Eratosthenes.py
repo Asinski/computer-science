@@ -1,7 +1,4 @@
-
-
 def sieve_eratosthenes(n):
-
     a = [True] * n
     a[0] = a[1] = False
     for k in range(2, n):

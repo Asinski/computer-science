@@ -1,5 +1,3 @@
-
-
 def count_sort(a):
     """Сортировка методом подсчета ([-10, 10])"""
     sort_list_beta = [0] * 21
@@ -15,4 +13,3 @@ def count_sort(a):
 
 massive = list(map(int, input().split()))
 print(*count_sort(massive))
-
