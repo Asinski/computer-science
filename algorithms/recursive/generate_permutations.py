@@ -1,17 +1,17 @@
-def generate_permutations(n: int, m: int = -1, prefix=None):
+def generate_permutations(n: int, k: int = -1, prefix=None):
     """
-    Генерация всех перестановок n чисел в m позициях
+    Генерация всех перестановок n чисел в k позициях (упорядоченных выборок без повторений)
     """
-    m = m if m != -1 else n
+    k = k if k != -1 else n
     prefix = prefix or []
-    if m == 0:
+    if k == 0:
         print(*prefix, sep="")
         return
-    for number in range(n):
+    for number in range(1, n + 1):
         if number in prefix:
             continue
         prefix.append(number)
-        generate_permutations(n, m - 1, prefix)
+        generate_permutations(n, k - 1, prefix)
         prefix.pop()
 
 
