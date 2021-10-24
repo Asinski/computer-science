@@ -1,6 +1,3 @@
-# https://contest.yandex.ru/contest/27472/problems/C/
-
-
 def near_number(n, seq, x):
     num = seq[0]
     diff = abs(x - seq[0])
