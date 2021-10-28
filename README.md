@@ -11,6 +11,7 @@
                 | [f-cтроки](https://python-scripts.com/f-strings)
                 | [Флаги преобразования](https://tirinox.ru/format-flags-python/)
                 | [Модуль re. Регулярные выражения](https://tproger.ru/translations/regular-expression-python/)
+                | [Туториал по регулярным выражениям](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA)
             - [*Списки (list)](https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html)
             - [*Кортежи (tuple)](https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html)
             - [*Множества (set и frozenset)](https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html)
@@ -98,7 +99,17 @@
         * [Сложность основных алгоритмов сортировки и работы с данными](https://www.bigocheatsheet.com/)
         * [Классификация сортировок](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8)
         * [Объяснение алгоритмов сортировки с примерами на Python](https://tproger.ru/translations/sorting-algorithms-in-python/)
+        * [Алгоритмы и структуры данных для начинающих: сортировка](https://tproger.ru/translations/sorting-for-beginners/)
         * [Визуализации алгоритмов сортировки](https://tproger.ru/digest/sorting-algorithms-visualized/)
+        * [Слияние списков и сравнение его скорости](https://habr.com/ru/post/510970/)
+    * Строковые алгоритмы:
+        * [Префикс-функция и Z-функция строки](https://www.youtube.com/watch?v=y6RFVLABLcc)
+        * [Алгоритм Кнута-Морриса-Пратта](https://www.youtube.com/watch?v=7g-WEBj3igk&list=PLmI7RzbyXOMmas1tDmUduw5N-s9LnKvig&index=29&t=1208s)
+        * [Алгоритм Бойера-Мура-Хорспула](https://www.youtube.com/watch?v=KIUHWMwavQg&list=PLmI7RzbyXOMmas1tDmUduw5N-s9LnKvig&index=30&ab_channel=RomanTsarev)
+    * Стек, очередь, дек:
+        * [Алгоритмы и структуры данных для начинающих: стеки и очереди](https://tproger.ru/translations/stacks-and-queues-for-beginners/)
+        * [Линейные структуры данных: стек | Фоксфорд](https://www.youtube.com/watch?v=uQNBQSYUmj0&list=PLuhNJgi9DRWUS-nAXaXUNWtFvW2574-Tu&index=17)
+        * [Линейные структуры данных: очередь, дек](https://www.youtube.com/watch?v=dBdXV_wfT9A&list=PLuhNJgi9DRWUS-nAXaXUNWtFvW2574-Tu&index=18)
 
     
 

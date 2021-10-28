@@ -1,25 +1,38 @@
-setsize = 10
-newset = [[] for _ in range(setsize)]
+class MultiSet:
+    """
+    Мультисет, или хэш-таблица - структура данных,
+    содержащая уникальные элементы с адресацией, задаваемой хеш-функцией.
+    """
 
+    def __init__(self, size):
+        self.size = size
+        self.multiset = [[] for _ in range(size)]
 
-def add(x):
-    if not find(x):
-        newset[x % setsize].append(x)
+    def add(self, item):
+        """Метод add() добавляет новый элемент в мультисет"""
+        if not self.find(item):
+            self.multiset[item % self.size].append(item)
 
+    def find(self, item):
+        """Метод find() ищет переданный элемент в мультисете"""
+        for now in self.multiset[item % self.size]:
+            if now == item:
+                return True
+        return False
 
-def find(x):
-    for now in newset[x % setsize]:
-        if now == x:
-            return True
-    return False
+    def delete(self, item):
+        """Метод delete() удаляет переданный элемент из мультисета."""
+        itemlist = self.multiset[item % self.size]
+        for i in range(len(itemlist)):
+            if itemlist[i] == item:
+                itemlist[i] = itemlist[-1]
+                itemlist.pop()
+                return
+        return None
 
-
-def delete(x):
-    xlist = newset[x % setsize]
-    for i in range(len(xlist)):
-        if xlist[i] == x:
-            # a, b = b, a - swap(a,b) - usual for C++
-            # xlist[i], xlist[len(xlist) - 1] = xlist[len(xlist) - 1], xlist[i]
-            xlist[i] = xlist[len(xlist) - 1]
-            xlist.pop()
+    def clear(self):
+        """Метод clear() очищает весь мультисет."""
+        if self.multiset:
+            self.multiset = [[] for _ in range(self.size)]
             return
+        return None
