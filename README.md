@@ -109,7 +109,7 @@
     * Стек, очередь, дек:
         * [Алгоритмы и структуры данных для начинающих: стеки и очереди](https://tproger.ru/translations/stacks-and-queues-for-beginners/)
         * [Линейные структуры данных: стек | Фоксфорд](https://www.youtube.com/watch?v=uQNBQSYUmj0&list=PLuhNJgi9DRWUS-nAXaXUNWtFvW2574-Tu&index=17)
-        * [Линейные структуры данных: очередь, дек](https://www.youtube.com/watch?v=dBdXV_wfT9A&list=PLuhNJgi9DRWUS-nAXaXUNWtFvW2574-Tu&index=18)
+        * [Линейные структуры данных: очередь, дек | Фоксфорд](https://www.youtube.com/watch?v=dBdXV_wfT9A&list=PLuhNJgi9DRWUS-nAXaXUNWtFvW2574-Tu&index=18)
 
     
 
