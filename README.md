@@ -27,7 +27,6 @@
             - [Менеджеры контекста](https://nuancesprog.ru/p/10591/)
         * [Функциональное программирование на Python](https://nuancesprog.ru/p/12704/)
 	| [Функциональное программирование в примерах](https://medium.com/@kiky.tokamuro/функциональное-программирование-в-примерах-be5ebe4a6053)
-            - [Оптимизация хвостовой рекурсии в Python](https://habr.com/ru/post/158385/)
         * Библиотеки:
             - [The Python standard library](https://docs.python.org/3/library/index.html)
             - [Модуль os](https://docs.python.org/3/library/os.html)    
@@ -62,15 +61,13 @@
             - [Модуль openpyxl](https://openpyxl.readthedocs.io/en/stable/)
                 | [Работа с openpyxl](https://www.youtube.com/watch?v=d5jHpPSp5uI)
                 | [Работа с json и openpyxl](https://www.youtube.com/watch?v=VQNV_oOdOqo&ab_channel=egoroff_channel)
-            - [Модуль csv](https://www.google.com/search?q=csv+python&oq=csv+&aqs=edge.1.69i57j0i67l3j0l3.2465j0j4&sourceid=chrome&ie=UTF-8)
+            - [Модуль csv](https://docs.python.org/3/library/csv.html)
                 | [Работа с csv](https://metanit.com/python/tutorial/4.3.php)
+            - [Документация по PyYAML](https://pyyaml.org/wiki/PyYAMLDocumentation)
             - [Модуль prettytable](https://pypi.org/project/prettytable/)
             - [Документация по pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
             	| [Туториал по Series](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvibdelR6YgWvxKRv-FDz4D)
-            	| [Туториал по DataFrame, часть 1](https://www.coursera.org/learn/mathematics-and-python/lecture/rcjAW/pandas-data-frame)
-            	| [Туториал по DataFrame, часть 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
             	| [Comparison with SQL](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
-            	| [pandas для работы с данными](https://www.youtube.com/playlist?list=PLBRXq5LaddfxQFjzuq5QC05q1ZheGMQo1)
             - [Документация по Matplotlib](https://matplotlib.org/stable/tutorials/index.html)
             	| [Туториал по Matplotlib](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xQx-X5a6eSEOYULNSnHN_p)
             - [Документация по Seaborn](https://seaborn.pydata.org/)
@@ -81,7 +78,6 @@
         | [PEP 8 - руководство по написанию кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
         * [PEP 20 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
         | [PEP 20 - дзен Python](https://pythonchik.ru/osnovy/dzen-python-pep20)
-        * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
         * [80 практических вопросов по Python для собеседования](https://nuancesprog.ru/p/11460/) 
     * R:
         * [Основы программирования на R | Bioinformatics Institute](https://stepik.org/course/497/syllabus)
@@ -100,8 +96,8 @@
     * Сортировка:
         * [Сложность основных алгоритмов сортировки и работы с данными](https://www.bigocheatsheet.com/)
         * [Классификация сортировок](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8)
-        * [Объяснение алгоритмов сортировки с примерами на Python](https://tproger.ru/translations/sorting-algorithms-in-python/)
         * [Алгоритмы и структуры данных для начинающих: сортировка](https://tproger.ru/translations/sorting-for-beginners/)
+        * [Объяснение алгоритмов сортировки с примерами на Python](https://tproger.ru/translations/sorting-algorithms-in-python/)
         * [Визуализации алгоритмов сортировки](https://tproger.ru/digest/sorting-algorithms-visualized/)
         * [Слияние списков и сравнение его скорости](https://habr.com/ru/post/510970/)
     * Строковые алгоритмы:
@@ -156,8 +152,8 @@
     * [Теория вероятностей и математическая статистика : учебно-метод. пособие / А. В. Аксенчик. - Минск : БГУИР, 2011. - 184 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/630)
 	| [Теория вероятностей и математическая статистика : сборник задач по типовому расчету / сост. А. В. Аксенчик [и др.]. - Минск : БГУИР, 2007. - 76 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/916)
     * [Основы статистики | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/76/syllabus)
-    * [Основы статистики, Часть 2 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/524/syllabus)
-    * [Основы статистики, Часть 3 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
+    * [Основы статистики, часть 2 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/524/syllabus)
+    * [Основы статистики, часть 3 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
 
 
 
@@ -173,8 +169,9 @@
         * [Элементы блок-схем](http://videoege.ru/informatika/elementy-blok-shem)
     * .
         * [Компилятор vs. интерпретатор: ключевые отличия](https://nuancesprog.ru/p/12524/)
+        * [Интроспекция и рефлексия](https://tproger.ru/translations/programming-concepts-introspection-reflection/)
+    *.
         * [IDE и редакторы кода для Python](https://tproger.ru/translations/python-ide/)
-        * [Магические команды в Jupyter Notebook](https://nuancesprog.ru/p/8099/)
         * [Особенности Jupyter Notebook](https://habr.com/ru/company/wunderfund/blog/316826/)
         * [Компиляция .py в .exe](https://www.youtube.com/watch?v=c4anm9QQV80&list=WL&index=30)
         * [Увеличиваем скорость работы Python до уровня C++ с Numba](https://tproger.ru/translations/python-mozhet-byt-bystree-c/?utm_medium=messenger&utm_source=telegram)
@@ -195,7 +192,8 @@
         * [Вопросы с собеседований, которые означают не то, что вы думаете](https://tproger.ru/articles/16-tricky-interview-questions/?utm_medium=messenger&utm_source=telegram)
         * [Как правильно говорить на собеседовании о зарплате?](https://vc.ru/hr/74192-kak-pravilno-govorit-na-sobesedovanii-o-zarplate)
         * [Стрессовое собеседование в IT-компании: к чему готовиться?](https://tproger.ru/articles/stressovoe-sobesedovanie-8-fishek-rekrutjorov/)
-        * [Фразы, которые лучше НЕ говорить на собеседовании](https://dev.by/news/veynik-do-not-say)
+    *.
+        * [Как вести записи, чтобы всё понять и запомнить?](https://vc.ru/life/315774-kak-vesti-zapisi-chtoby-vse-ponyat-i-zapomnit-chetyre-prostyh-sposoba)
 
 
 
