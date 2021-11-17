@@ -193,6 +193,8 @@
         * [Как правильно говорить на собеседовании о зарплате?](https://vc.ru/hr/74192-kak-pravilno-govorit-na-sobesedovanii-o-zarplate)
         * [Стрессовое собеседование в IT-компании: к чему готовиться?](https://tproger.ru/articles/stressovoe-sobesedovanie-8-fishek-rekrutjorov/)
     * .
+        * [Пришли работать в IT-компанию? Вот как проще адаптироваться](https://rb.ru/opinion/it-kak-proshe-adaptirovatsya/)
+    * .
         * [Как вести записи, чтобы всё понять и запомнить?](https://vc.ru/life/315774-kak-vesti-zapisi-chtoby-vse-ponyat-i-zapomnit-chetyre-prostyh-sposoba)
 
 
