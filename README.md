@@ -49,7 +49,9 @@
             - [Модуль decimal](https://docs.python.org/3/library/decimal.html)
                 | [Работа с decimal](https://metanit.com/python/tutorial/6.4.php)
             - [Модуль collections](https://digitology.tech/docs/python_3/library/collections.html#collections.Counter)
+            - [*Модуль array](https://pythonworld.ru/moduli/modul-array-massivy-v-python.html)
             - [Модуль itertools](https://digitology.tech/docs/python_3/library/itertools.html?highlight=itertools)
+            - [*Модуль functools](https://pythonworld.ru/moduli/modul-functools.html)
             - [Модуль pickle](https://docs.python.org/3/library/pickle.html)
                 | [Работа с pickle, часть 1](https://pythonworld.ru/moduli/modul-pickle.html)
                 | [Работа с pickle, часть 2](https://metanit.com/python/tutorial/4.4.php)
@@ -104,6 +106,10 @@
         * [Префикс-функция и Z-функция строки](https://www.youtube.com/watch?v=y6RFVLABLcc)
         * [Алгоритм Кнута-Морриса-Пратта](https://www.youtube.com/watch?v=7g-WEBj3igk&list=PLmI7RzbyXOMmas1tDmUduw5N-s9LnKvig&index=29&t=1208s)
         * [Алгоритм Бойера-Мура-Хорспула](https://www.youtube.com/watch?v=KIUHWMwavQg&list=PLmI7RzbyXOMmas1tDmUduw5N-s9LnKvig&index=30&ab_channel=RomanTsarev)
+    * Массив:
+        * [Алгоритмы и структуры данных для начинающих: динамический массив](https://tproger.ru/translations/array-list-for-beginners/)
+    * Связный список:
+        * [Алгоритмы и структуры данных для начинающих: связный список](https://tproger.ru/translations/linked-list-for-beginners/)
     * Стек, очередь, дек:
         * [Алгоритмы и структуры данных для начинающих: стеки и очереди](https://tproger.ru/translations/stacks-and-queues-for-beginners/)
         * [Линейные структуры данных: стек | Фоксфорд](https://www.youtube.com/watch?v=uQNBQSYUmj0&list=PLuhNJgi9DRWUS-nAXaXUNWtFvW2574-Tu&index=17)
@@ -192,6 +198,7 @@
         * [Вопросы с собеседований, которые означают не то, что вы думаете](https://tproger.ru/articles/16-tricky-interview-questions/?utm_medium=messenger&utm_source=telegram)
         * [Как правильно говорить на собеседовании о зарплате?](https://vc.ru/hr/74192-kak-pravilno-govorit-na-sobesedovanii-o-zarplate)
         * [Стрессовое собеседование в IT-компании: к чему готовиться?](https://tproger.ru/articles/stressovoe-sobesedovanie-8-fishek-rekrutjorov/)
+        * [Как проходят алгоритмические секции на собеседованиях в Яндекс?](https://habr.com/ru/company/yandex/blog/449890/)
     * .
         * [Пришли работать в IT-компанию? Вот как проще адаптироваться](https://rb.ru/opinion/it-kak-proshe-adaptirovatsya/)
     * .
