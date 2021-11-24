@@ -1,5 +1,5 @@
 def bracket(count, s='', left=0, right=0):
-    if left == count and right == count:
+    if left == right == count:
         print(s)
     else:
         if left < count:
