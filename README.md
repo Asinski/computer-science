@@ -169,7 +169,8 @@
     * Git:
         * [Введение в Git | Хекслет](https://ru.hexlet.io/courses/intro_to_git)
         * [An interactive git visualization and tutorial](https://github.com/pcottle/learnGitBranching)
-        * [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
+	* [Git - инструмент для совместной работы с нуля и до регламента в команде | ШРИ](https://www.youtube.com/watch?v=XfpNNPo5ypk&list=WL&index=4)
+        * [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/
 
 
 
