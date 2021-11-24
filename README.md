@@ -157,9 +157,11 @@
     * [Математика и Python для анализа данных | Московский физико-технический институт, Яндекс & E-Learning Development Fund](https://www.coursera.org/learn/mathematics-and-python)
     * [Теория вероятностей и математическая статистика : учебно-метод. пособие / А. В. Аксенчик. - Минск : БГУИР, 2011. - 184 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/630)
 	| [Теория вероятностей и математическая статистика : сборник задач по типовому расчету / сост. А. В. Аксенчик [и др.]. - Минск : БГУИР, 2007. - 76 с. : ил.](https://libeldoc.bsuir.by/handle/123456789/916)
-    * [Основы статистики | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/76/syllabus)
-    * [Основы статистики, часть 2 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/524/syllabus)
-    * [Основы статистики, часть 3 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
+    * [Основы статистики, часть 1 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/76/syllabus)
+    | [Основы статистики, часть 2 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/524/syllabus)
+    | [Основы статистики, часть 3 | Анатолий Карпов, Bioinformatics Institute](https://stepik.org/course/2152/syllabus)
+    * [Логико-математические задачи, часть 1](https://tproger.ru/articles/5-logiko-matematicheskih-zadach-kotorye-postavjat-v-tupik/)
+    | [Логико-математические задачи, часть 2](https://tproger.ru/articles/10-logicheskih-zadach-s-sobesedovanij-kotorye-zastavjat-zastrelitsja/)
 
 
 
@@ -167,6 +169,7 @@
     * Git:
         * [Введение в Git | Хекслет](https://ru.hexlet.io/courses/intro_to_git)
         * [An interactive git visualization and tutorial](https://github.com/pcottle/learnGitBranching)
+        * [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
 
 
 
