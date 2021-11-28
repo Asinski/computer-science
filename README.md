@@ -214,6 +214,7 @@
     * [Почему список в кортеже ведет себя странно в Python?](https://habr.com/ru/company/domclick/blog/506138/)
     * [Когда и зачем использовать оператор := в Python](https://nuancesprog.ru/p/10634/)
     * [Зачем Python столько знаков подчеркивания?](https://nuancesprog.ru/p/14193/)
+    * [Генерировать случайные числа гораздо сложнее, чем вы думаете](https://nuancesprog.ru/p/14619/)
     * [Pattern matching in Python 3.10](https://www.youtube.com/watch?v=0kyy_zKO86U&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21)
     * [Сам себе программист. Как научиться программировать и устроиться в Ebay? / Кори Альтхофф ; [пер. с англ. М.А. Райтмана]. - Москва : Эскмо, 2018. - 208 с. - (Мировой компьютерный бестселлер)](https://oz.by/books/more10693712.html)
 
