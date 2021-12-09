@@ -35,6 +35,8 @@
                 | [Работа с os.path](https://pythonworld.ru/moduli/modul-os-path.html)
             - [Модуль pathlib](https://docs.python.org/3/library/pathlib.html)
                 | [Работа с pathlib + os + os.path + shutil + zipfile](https://nuancesprog.ru/p/11111/)
+            - [Модуль glob](https://docs.python.org/3/library/glob.html)
+                | [Работа с glob](https://pythonworld.ru/moduli/modul-glob.html)
             - [Модуль sys](https://docs.python.org/3/library/sys.html)
                 | [Работа с sys](https://pythonworld.ru/moduli/modul-sys.html)
             - [Модуль locale](https://docs.python.org/3/library/locale.html)
