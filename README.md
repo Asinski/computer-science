@@ -34,9 +34,11 @@
             - [Модуль os.path](https://docs.python.org/3/library/os.path.html) 
                 | [Работа с os.path](https://pythonworld.ru/moduli/modul-os-path.html)
             - [Модуль pathlib](https://docs.python.org/3/library/pathlib.html)
-                | [Работа с pathlib + os + os.path + shutil + zipfile](https://nuancesprog.ru/p/11111/)
             - [Модуль glob](https://docs.python.org/3/library/glob.html)
                 | [Работа с glob](https://pythonworld.ru/moduli/modul-glob.html)
+            - [Модуль shutil](https://docs.python.org/3/library/shutil.html)
+                | [Работа с shutil](https://pythonworld.ru/moduli/modul-shutil.html)
+            - [Модуль zipfile](https://docs.python.org/3/library/zipfile.html)
             - [Модуль sys](https://docs.python.org/3/library/sys.html)
                 | [Работа с sys](https://pythonworld.ru/moduli/modul-sys.html)
             - [Модуль locale](https://docs.python.org/3/library/locale.html)
@@ -173,7 +175,7 @@
     * Git:
         * [Введение в Git | Хекслет](https://ru.hexlet.io/courses/intro_to_git)
         * [An interactive git visualization and tutorial](https://github.com/pcottle/learnGitBranching)
-	* [Git - инструмент для совместной работы с нуля и до регламента в команде | ШРИ](https://www.youtube.com/watch?v=XfpNNPo5ypk&list=WL&index=4)
+        * [Git - инструмент для совместной работы с нуля и до регламента в команде | ШРИ](https://www.youtube.com/watch?v=XfpNNPo5ypk&list=WL&index=4)
         * [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
 
 
