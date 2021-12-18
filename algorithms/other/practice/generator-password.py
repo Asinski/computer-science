@@ -6,6 +6,7 @@ import os
 letters, numbers, symbols = string.ascii_letters, string.digits, string.punctuation
 all_ = letters + numbers + symbols
 
+
 length = int(input())
 
 password = ''.join(random.sample(all_, length))
