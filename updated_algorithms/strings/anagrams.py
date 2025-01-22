@@ -53,7 +53,7 @@ def anagrams14(s1, s2):
     return are_they_anagrams
 
 
-# Сортируй и сравнивай - O(sort)
+# Сортируй и сравнивай - O(nlogn)
 
 def anagrams21(s1, s2):
     return sorted(s1) == sorted(s2)
